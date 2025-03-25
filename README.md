@@ -1,6 +1,6 @@
 # Urbit Sail Converter
 
-A VS Code extension that converts HTML to Urbit's Sail syntax.
+Vibecoded VS Code extension that converts HTML to Hoon Sail syntax. No guarantees on perfection.
 
 ## Features
 
