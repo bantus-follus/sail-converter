@@ -33,7 +33,8 @@ The converter supports:
 1. Clone this repository
 2. Run `npm install` to install dependencies
 3. Run `npm run compile` to build the extension
-4. Press F5 to launch a new VS Code window with the extension loaded
+4. Install from vsix
+5. Press F5 to launch a new VS Code window with the extension loaded
 
 To package the extension:
 ```bash
